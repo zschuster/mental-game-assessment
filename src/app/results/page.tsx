@@ -13,7 +13,7 @@ export default function ResultsPage() {
               Overall Score: 75/100
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-              You're doing well! Your mental fitness is in the good range with
+              You&#39;re doing well! Your mental fitness is in the good range with
               room for improvement.
             </p>
 
